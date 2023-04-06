@@ -7,7 +7,7 @@
 ## Содержание
 - Основные команды
   - [git add](./add.md)
-  - git status ⬅ Вы здесь
+  - [git status](./status.md)
   - [git diff](./diff.md)
   - [git difftool](./difftool.md)
   - [git commit](./commit.md)
@@ -16,7 +16,7 @@
   - [git mv](./mv.md)
   - [git clean](./clean.md)
 - Ветвление и слияния
-  - [git branch](./branch.md)
+  - git branch ⬅ Вы здесь
   - [git checkout](./checkout.md)
   - [git merge](./merge.md)
   - [git mergetool](./mergetool.md)
